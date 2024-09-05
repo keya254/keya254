@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
--🔭  Currently I'm working on IoT projects that is both hardware and software.
+- 🔭  Currently I'm working on IoT projects that is both hardware and software.
 - 🌱 I'm learning Dev Ops and 3D design for 3D printing
 - 👯 I’m looking to collaborate on IoT and Cloud solutions
 
